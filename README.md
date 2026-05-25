@@ -4,6 +4,8 @@
 
 ### I design and build modern AI-powered web products — from database schema to polished UI.
 
+Full-Stack Developer · Data Science & AI · Based in Calicut, Kerala
+
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40shammashassan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/shammashassan)
 [![Twitter / X](https://www.shieldcn.dev/x/follow/Shammas_Hassan_.svg?variant=branded&size=sm)](https://x.com/Shammas_Hassan_)
 [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/shammas-kt)
@@ -81,23 +83,23 @@
 
 ## 🚀 Featured Projects
 
-### 💰 Dime — Personal Finance Tracker
-
-Production-ready finance platform with invite-only onboarding, analytics dashboards, recurring rules, and advanced authentication flows.
-
-**Stack:** Next.js 16 · TypeScript · MongoDB · Better Auth · Tailwind CSS · Resend
-
-🔗 [Live Demo](https://dime-project.vercel.app) • 📦 [Repository](https://github.com/shammashassan)
-
----
-
 ### 🧠 UI Dev Second Brain
 
 A curated developer resource platform for design engineers featuring components, blocks, animations, AI tools, and modern UI resources.
 
 **Stack:** Next.js · TypeScript · React · MongoDB · Better Auth · Tailwind CSS
 
-🔗 [Live Demo](https://ui-dev-second-brain.vercel.app) • 📦 [Repository](https://github.com/shammashassan)
+🔗 [Live Demo](https://ui-dev-second-brain.vercel.app/)
+
+---
+
+### 💰 Dime — Personal Finance Tracker
+
+Production-ready finance platform with invite-only onboarding, analytics dashboards, recurring rules, and advanced authentication flows.
+
+**Stack:** Next.js 16 · TypeScript · MongoDB · Better Auth · Tailwind CSS · Resend
+
+🔒 Private Project
 
 ---
 
@@ -107,7 +109,7 @@ Full-stack ERP platform covering billing, inventory management, expenses, employ
 
 **Stack:** Next.js · TypeScript · Node.js · MongoDB · shadcn/ui
 
-📦 Repository Coming Soon
+🔒 Private Project
 
 ---
 
@@ -117,7 +119,7 @@ Android application using NLP and machine learning models to analyse resumes and
 
 **Stack:** Python · Android · NLP · Scikit-learn · REST API
 
-📦 Private Project
+🔒 Private Project
 
 ---
 
@@ -135,20 +137,22 @@ Android application using NLP and machine learning models to analyse resumes and
 
 ---
 
+<div align="center">
+
 ## 🤝 Let's Connect
 
-I'm currently open to full-stack, frontend, and AI-focused opportunities.
+[![Portfolio](https://www.shieldcn.dev/badge/Portfolio-000000.svg?logo=vercel&variant=secondary&size=sm)](https://shammas-kt.vercel.app)
 
-📧 shammashassan.kt@gmail.com
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=secondary&size=sm)](https://linkedin.com/in/shammas-kt)
 
-🌐 Portfolio: https://shammas-kt.vercel.app
+[![Email](https://www.shieldcn.dev/badge/Email-D14836.svg?logo=gmail&variant=secondary&size=sm)](mailto:shammashassan.kt@gmail.com)
 
-🔗 LinkedIn: https://linkedin.com/in/shammas-kt
+</div>
 
 ---
 
 <div align="center">
 
-<sub>Built with ❤️ using Next.js, React, TypeScript & lots of coffee.</sub>
+<sub>Focused on building scalable products with clean UX and modern architecture.</sub>
 
 </div>

@@ -142,11 +142,7 @@ Android application using NLP and machine learning models to analyse resumes and
 
 ## 🤝 Let's Connect
 
-[![Portfolio](https://www.shieldcn.dev/badge/Portfolio-000000.svg?logo=vercel&variant=secondary&size=sm)](https://shammas-kt.vercel.app)
-
-[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=secondary&size=sm)](https://linkedin.com/in/shammas-kt)
-
-[![Email](https://www.shieldcn.dev/badge/Email-D14836.svg?logo=gmail&variant=secondary&size=sm)](mailto:shammashassan.kt@gmail.com)
+[![Portfolio](https://www.shieldcn.dev/badge/Portfolio-000000.svg?logo=vercel&variant=secondary&size=sm)](https://shammas-kt.vercel.app) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=secondary&size=sm)](https://linkedin.com/in/shammas-kt) [![Email](https://www.shieldcn.dev/badge/Email-D14836.svg?logo=gmail&variant=secondary&size=sm)](mailto:shammashassan.kt@gmail.com)
 
 </div>
 

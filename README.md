@@ -1,15 +1,124 @@
-# 💫 About Me:
-🔭 **I’m currently working on**<br>Full-stack web applications and AI-powered solutions, including ERP systems like with billing, inventory, expense tracking, and business analytics features.<br><br>🤝 **I’m looking to collaborate on**<br>Data Science projects, AI-driven applications, web development projects (React / Next.js / Node.js), and innovative startup ideas.<br><br>🫶 **I’m looking for help with**<br>Advanced Machine Learning, Deep Learning architectures, scalable AI systems, and production-level AI deployment.<br><br>🌱 **I’m currently learning**<br>Advanced Data Science, AI Prompt Engineering techniques, and building scalable full-stack applications with modern frameworks.<br><br>💬 **Ask me about**<br>Data Analysis, Customer Segmentation, Predictive Modeling, Web App Development, ERP Systems, and AI Prompt Engineering.<br><br>⚡ **Fun fact**<br>I combine creativity (graphic design & photography) with logic (AI & programming) to build solutions that are both smart and beautifully designed.
+<div align="center">
 
+# Hi, I'm SHAMMAS KT 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shammas.kt.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shammas_hassan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shammas-kt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shammas_Hassan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shammashassan.kt@gmail.com) 
+Full-Stack Developer • Data Science & AI • UI-Focused Builder
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shammashassan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shammashassan&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shammashassan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40shammashassan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/shammashassan)
+[![Twitter / X](https://www.shieldcn.dev/x/follow/Shammas_Hassan_.svg?variant=branded&size=sm)](https://x.com/Shammas_Hassan_)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/shammas-kt)
+[![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/shammas_hassan)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/shammashassan.svg?variant=secondary&size=sm)](https://github.com/shammashassan?tab=followers)
+[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/shammashassan.svg?variant=secondary&size=sm)](https://github.com/shammashassan?tab=repositories)
+[![Public Repos](https://www.shieldcn.dev/badge/Repos-6-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/shammashassan?tab=repositories)
+
+</div>
+
+---
+
+## 💫 About Me
+
+🔭 **Currently working on**  
+Production-ready full-stack applications, ERP systems, AI-powered tools, and modern UI-focused platforms.
+
+🤝 **Looking to collaborate on**  
+AI-driven applications, scalable web platforms, Data Science projects, and innovative startup ideas.
+
+🫶 **Looking for help with**  
+Advanced Machine Learning, scalable AI systems, and production-level AI deployment.
+
+🌱 **Currently learning**  
+Advanced Data Science, AI Prompt Engineering, scalable system architecture, and modern full-stack engineering.
+
+💬 **Ask me about**  
+Next.js, React, TypeScript, ERP Systems, AI Prompting, Data Analysis, Customer Segmentation, and Predictive Modeling.
+
+⚡ **Fun fact**  
+I combine creativity (graphic design & photography) with logic (AI & programming) to build products that are both smart and beautifully designed.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
+![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm)
+![HTML5](https://www.shieldcn.dev/badge/-HTML5-E34F26.svg?logo=html5&variant=branded&size=sm)
+![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm)
+![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-161618.svg?logo=radixui&variant=branded&size=sm)
+
+### Backend & Database
+
+![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=node.js&variant=branded&size=sm)
+![PHP](https://www.shieldcn.dev/badge/-PHP-777BB4.svg?logo=php&variant=branded&size=sm)
+![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm)
+![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm)
+![SQLite](https://www.shieldcn.dev/badge/-SQLite-003B57.svg?logo=sqlite&variant=branded&size=sm)
+![Redis](https://www.shieldcn.dev/badge/-Redis-DC382D.svg?logo=redis&variant=branded&size=sm)
+
+### Data Science & AI
+
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+![Pandas](https://www.shieldcn.dev/badge/-Pandas-150458.svg?logo=pandas&variant=branded&size=sm)
+![NumPy](https://www.shieldcn.dev/badge/-NumPy-013243.svg?logo=numpy&variant=branded&size=sm)
+![Matplotlib](https://www.shieldcn.dev/badge/-Matplotlib-11557C.svg?variant=branded&size=sm)
+![Django](https://www.shieldcn.dev/badge/-Django-092E20.svg?logo=django&variant=branded&size=sm)
+
+### DevOps & Tools
+
+![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm)
+![GitHub](https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&variant=branded&size=sm)
+![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&size=sm)
+![NPM](https://www.shieldcn.dev/badge/-NPM-CB3837.svg?logo=npm&variant=branded&size=sm)
+![Vercel](https://www.shieldcn.dev/badge/-Vercel-000000.svg?logo=vercel&variant=branded&size=sm)
+![Netlify](https://www.shieldcn.dev/badge/-Netlify-00C7B7.svg?logo=netlify&variant=branded&size=sm)
+![AWS](https://www.shieldcn.dev/badge/-AWS-FF9900.svg?logo=amazonaws&variant=branded&size=sm)
+![PowerShell](https://www.shieldcn.dev/badge/-PowerShell-5391FE.svg?logo=powershell&variant=branded&size=sm)
+
+### Design Tools
+
+![Adobe Illustrator](https://www.shieldcn.dev/badge/-Illustrator-FF9A00.svg?logo=adobeillustrator&variant=branded&size=sm)
+![Adobe Photoshop](https://www.shieldcn.dev/badge/-Photoshop-31A8FF.svg?logo=adobephotoshop&variant=branded&size=sm)
+![Canva](https://www.shieldcn.dev/badge/-Canva-00C4CC.svg?logo=canva&variant=branded&size=sm)
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Dime — Personal Finance Tracker
+Production-ready finance tracker with multi-auth, invite-only onboarding, wallets, budgets, recurring rules, and secure authentication flows.
+
+### 🧠 UI Dev Second Brain
+A curated developer resource platform for UI engineers featuring components, blocks, animations, tools, and AI resources.
+
+### 🏢 ERP System
+Full-stack ERP platform covering billing, inventory, expenses, employee management, analytics, and reporting.
+
+### 🤖 AI Career Guidance App
+Android application using NLP and ML models to analyse resumes and recommend career paths and courses.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shammashassan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shammashassan&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shammashassan&theme=transparent&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with ❤️ using Next.js, React, TypeScript & lots of coffee.</sub>
+
+</div>

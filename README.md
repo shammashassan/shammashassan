@@ -4,7 +4,7 @@
 
 ## I design and build modern AI-powered web products — from database schema to polished UI.
 
-###Full-Stack Developer · Data Science & AI · Based in Calicut, Kerala
+### Full-Stack Developer · Data Science & AI · Based in Calicut, Kerala
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40shammashassan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/shammashassan)
 [![Twitter / X](https://www.shieldcn.dev/x/follow/Shammas_Hassan_.svg?variant=branded&size=sm)](https://x.com/Shammas_Hassan_)

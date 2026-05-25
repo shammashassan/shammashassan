@@ -128,9 +128,9 @@ Android application using NLP and machine learning models to analyse resumes and
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shammashassan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=shammashassan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=shammashassan&theme=transparent&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shammashassan&theme=transparent&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shammashassan&theme=transparent&hide_border=true&layout=compact)
 

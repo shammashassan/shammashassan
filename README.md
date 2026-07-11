@@ -1,20 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:3f3f46&height=220&section=header&text=SHAMMAS%20KT&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Crafting%20fast%2C%20scalable%2C%20AI-powered%20products&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
+
 <div align="center">
 
-# Hi, I'm SHAMMAS KT 👋
+### Full-Stack Developer • AI-Powered SaaS • Product Builder
 
-## I design and build modern AI-powered web products — from database schema to polished UI.
+I build modern web applications with **Next.js**, **TypeScript**, **MongoDB**, and **AI**, creating products that combine scalable architecture with polished user experiences.
 
-### Full-Stack Developer · Data Science & AI · Based in Calicut, Kerala
+<br/>
 
+[![GitHub](https://shieldcn.dev/badge/GitHub-@shammashassan?logo=github&variant=branded&color=181717&font=geist&size=sm)](https://github.com/shammashassan)
+[![Twitter / X](https://shieldcn.dev/x/follow/Shammas_Hassan_?variant=branded&color=000000&font=geist&size=sm)](https://x.com/Shammas_Hassan_)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-@shammas--kt?logo=linkedin&variant=branded&color=0A66C2&font=geist&size=sm)](https://linkedin.com/in/shammas-kt)
+[![Instagram](https://shieldcn.dev/badge/Instagram-@shammas_hassan?logo=instagram&variant=branded&color=E4405F&font=geist&size=sm)](https://instagram.com/shammas_hassan)
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40shammashassan-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/shammashassan)
-[![Twitter / X](https://www.shieldcn.dev/x/follow/Shammas_Hassan_.svg?variant=branded&size=sm)](https://x.com/Shammas_Hassan_)
-[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/shammas-kt)
-[![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/shammas_hassan)
+<br/>
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/shammashassan.svg?variant=secondary&size=sm)](https://github.com/shammashassan?tab=followers)
-[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/shammashassan.svg?variant=secondary&size=sm)](https://github.com/shammashassan?tab=repositories)
-[![Public Repos](https://www.shieldcn.dev/badge/Repos-6-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/shammashassan?tab=repositories)
+[![Portfolio](https://shieldcn.dev/badge/Portfolio-Live?logo=vercel&variant=branded&color=000000&font=geist&size=sm)](https://shammas-kt.vercel.app)
+[![Repositories](https://shieldcn.dev/badge/Repositories-6?logo=github&variant=branded&color=181717&font=geist&size=sm)](https://github.com/shammashassan?tab=repositories)
 
 </div>
 
@@ -22,105 +26,55 @@
 
 ## 💫 About Me
 
-🔭 Currently building production-grade full-stack platforms with authentication-heavy systems, scalable APIs, and polished UI experiences.
+- 🔭 Building production-ready SaaS applications and AI-powered products.
+- 🌱 Scalable architecture with **Next.js**, **TypeScript**, **Node.js**, and **MongoDB**.
+- 🤖 Exploring AI workflows, prompt engineering, and developer tooling.
+- 🎨 Pairing software engineering with UI/UX design for polished digital experiences.
+- 💬 Ask me about **React**, **Next.js**, **Authentication**, **ERP Systems**, **Data Science**, and **AI**.
 
-🧠 Exploring how AI workflows and prompt engineering can improve real-world SaaS products and developer tooling.
+---
 
-🌱 Focused on modern full-stack architecture using Next.js, TypeScript, Node.js, MongoDB, and AI-integrated workflows.
+## 🚀 Projects
 
-💬 Ask me about Next.js, React, TypeScript, ERP Systems, Authentication Systems, Data Science, and UI-focused product development.
-
-⚡ I combine creativity (graphic design & photography) with logic (AI & programming) to build products that are both smart and beautifully designed.
+| Project | Description | Stack | Repo | Link |
+|---|---|---|---|---|
+| 💰 **Dime** | Personal finance platform — Better Auth, budgets & recurring transactions, shared spaces | `Next.js` `TypeScript` `MongoDB` `Better Auth` `Tailwind` `Resend` | [![stars](https://shieldcn.dev/github/stars/shammashassan/dime?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/dime) [![last commit](https://shieldcn.dev/github/last-commit/shammashassan/dime?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/dime) | [dime-tracker.vercel.app](https://dime-tracker.vercel.app) |
+| ⚡ **Volt** | Curated dev-resource hub — UI libraries, components, motion, AI tools, design inspiration | `Next.js` `React` `TypeScript` `MongoDB` `Better Auth` `Tailwind` | [![stars](https://shieldcn.dev/github/stars/shammashassan/volt?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/volt) [![last commit](https://shieldcn.dev/github/last-commit/shammashassan/volt?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/volt) | [ui-volt.vercel.app](https://ui-volt.vercel.app) |
+| 🏭 **ERP System** | Billing, inventory, accounting, HR, analytics, reporting | `Next.js` `TypeScript` `Node.js` `MongoDB` `shadcn/ui` | 🔒 Private | 🔒 Private |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
-![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
-![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
-![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
-![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm)
-![HTML5](https://www.shieldcn.dev/badge/-HTML5-E34F26.svg?logo=html5&variant=branded&size=sm)
-![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm)
-![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-161618.svg?logo=radixui&variant=branded&size=sm)
+<p align="center">
+  <img height="55" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,electron&theme=dark" />
+</p>
 
-### Backend & Database
+**Backend & Database**
 
-![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=node.js&variant=branded&size=sm)
-![PHP](https://www.shieldcn.dev/badge/-PHP-777BB4.svg?logo=php&variant=branded&size=sm)
-![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm)
-![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm)
-![SQLite](https://www.shieldcn.dev/badge/-SQLite-003B57.svg?logo=sqlite&variant=branded&size=sm)
-![Redis](https://www.shieldcn.dev/badge/-Redis-DC382D.svg?logo=redis&variant=branded&size=sm)
+<p align="center">
+  <img height="55" src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,sqlite,redis&theme=dark" />
+</p>
 
-### Data Science & AI
+**Data / AI**
 
-![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
-![Pandas](https://www.shieldcn.dev/badge/-Pandas-150458.svg?logo=pandas&variant=branded&size=sm)
-![NumPy](https://www.shieldcn.dev/badge/-NumPy-013243.svg?logo=numpy&variant=branded&size=sm)
-![Matplotlib](https://www.shieldcn.dev/badge/-Matplotlib-11557C.svg?variant=branded&size=sm)
-![Django](https://www.shieldcn.dev/badge/-Django-092E20.svg?logo=django&variant=branded&size=sm)
+<p align="center">
+  <img height="55" src="https://skillicons.dev/icons?i=py,django&theme=dark" />
+</p>
 
-### DevOps & Tools
+**DevOps & Tools**
 
-![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm)
-![GitHub](https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&variant=branded&size=sm)
-![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&size=sm)
-![NPM](https://www.shieldcn.dev/badge/-NPM-CB3837.svg?logo=npm&variant=branded&size=sm)
-![Vercel](https://www.shieldcn.dev/badge/-Vercel-000000.svg?logo=vercel&variant=branded&size=sm)
-![Netlify](https://www.shieldcn.dev/badge/-Netlify-00C7B7.svg?logo=netlify&variant=branded&size=sm)
-![AWS](https://www.shieldcn.dev/badge/-AWS-FF9900.svg?logo=amazonaws&variant=branded&size=sm)
-![PowerShell](https://www.shieldcn.dev/badge/-PowerShell-5391FE.svg?logo=powershell&variant=branded&size=sm)
+<p align="center">
+  <img height="55" src="https://skillicons.dev/icons?i=git,github,githubactions,npm,vercel,netlify,aws,powershell,docker&theme=dark" />
+</p>
 
-### Design Tools
+**Design**
 
-![Adobe Illustrator](https://www.shieldcn.dev/badge/-Illustrator-FF9A00.svg?logo=adobeillustrator&variant=branded&size=sm)
-![Adobe Photoshop](https://www.shieldcn.dev/badge/-Photoshop-31A8FF.svg?logo=adobephotoshop&variant=branded&size=sm)
-![Canva](https://www.shieldcn.dev/badge/-Canva-00C4CC.svg?logo=canva&variant=branded&size=sm)
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 UI Dev Second Brain
-
-A curated developer resource platform for design engineers featuring components, blocks, animations, AI tools, and modern UI resources.
-
-**Stack:** Next.js · TypeScript · React · MongoDB · Better Auth · Tailwind CSS
-
-🔗 [Live Demo](https://ui-dev-second-brain.vercel.app/)
-
----
-
-### 💰 Dime — Personal Finance Tracker
-
-Production-ready finance platform with invite-only onboarding, analytics dashboards, recurring rules, and advanced authentication flows.
-
-**Stack:** Next.js 16 · TypeScript · MongoDB · Better Auth · Tailwind CSS · Resend
-
-🔒 Private Project
-
----
-
-### 🏢 ERP System
-
-Full-stack ERP platform covering billing, inventory management, expenses, employee records, analytics, and reporting dashboards.
-
-**Stack:** Next.js · TypeScript · Node.js · MongoDB · shadcn/ui
-
-🔒 Private Project
-
----
-
-### 🤖 AI Career Guidance App
-
-Android application using NLP and machine learning models to analyse resumes and recommend career paths and courses.
-
-**Stack:** Python · Android · NLP · Scikit-learn · REST API
-
-🔒 Private Project
+<p align="center">
+  <img height="55" src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+</p>
 
 ---
 
@@ -128,21 +82,63 @@ Android application using NLP and machine learning models to analyse resumes and
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shammashassan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shammashassan&show_icons=true&theme=transparent&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shammashassan&theme=transparent&hide_border=true)
+<img width="49%" src="https://streak-stats.demolab.com/?user=shammashassan&theme=transparent&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shammashassan&theme=transparent&hide_border=true&layout=compact)
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammashassan&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
+## 📈 GitHub Insights
+
 <div align="center">
+
+### Commit History
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://shieldcn.dev/chart/github/commits/shammashassan.svg?theme=zinc&font=geist&color=3b82f6&mode=dark&width=900&height=320"
+  />
+  <img
+    alt="GitHub Commit History"
+    src="https://shieldcn.dev/chart/github/commits/shammashassan.svg?theme=zinc&font=geist&color=3b82f6&mode=light&width=900&height=320"
+  />
+</picture>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| Backend | Frontend | AI | Infrastructure |
+|:--------:|:--------:|:--:|:--------------:|
+| Better Auth | React 19 | AI Agents | AWS |
+| MongoDB | Next.js 16 | Prompt Engineering | Docker |
+| Redis | shadcn/ui | RAG Systems | CI/CD |
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
-[![Portfolio](https://www.shieldcn.dev/badge/Portfolio-000000.svg?logo=vercel&variant=secondary&size=sm)](https://shammas-kt.vercel.app) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40shammas--kt-0A66C2.svg?logo=linkedin&variant=secondary&size=sm)](https://linkedin.com/in/shammas-kt) [![Email](https://www.shieldcn.dev/badge/Email-D14836.svg?logo=gmail&variant=secondary&size=sm)](mailto:shammashassan.kt@gmail.com)
+<div align="center">
+
+[![Portfolio](https://shieldcn.dev/badge/Portfolio-Live?logo=vercel&variant=branded&color=000000&font=geist&size=sm)](https://shammas-kt.vercel.app)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-@shammas--kt?logo=linkedin&variant=branded&color=0A66C2&font=geist&size=sm)](https://linkedin.com/in/shammas-kt)
+[![GitHub](https://shieldcn.dev/badge/GitHub-@shammashassan?logo=github&variant=branded&color=181717&font=geist&size=sm)](https://github.com/shammashassan)
+[![Twitter / X](https://shieldcn.dev/x/follow/Shammas_Hassan_?variant=branded&color=000000&font=geist&size=sm)](https://x.com/Shammas_Hassan_)
+[![Instagram](https://shieldcn.dev/badge/Instagram-@shammas_hassan?logo=instagram&variant=branded&color=E4405F&font=geist&size=sm)](https://instagram.com/shammas_hassan)
+[![Email](https://shieldcn.dev/badge/Email-Get_in_touch?logo=gmail&variant=branded&color=EA4335&font=geist&size=sm)](mailto:shammashassan.kt@gmail.com)
 
 </div>
 
@@ -150,6 +146,18 @@ Android application using NLP and machine learning models to analyse resumes and
 
 <div align="center">
 
-<sub>Focused on building scalable products with clean UX and modern architecture.</sub>
+### ⭐ Thanks for visiting!
+
+**Building products that are fast, scalable, and thoughtfully designed.**
+
+<sub>
+Next.js • TypeScript • MongoDB • AI • Open Source
+</sub>
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:3f3f46&height=150&section=footer" />
+</p>

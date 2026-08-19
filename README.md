@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### Full-Stack Developer • AI-Powered SaaS • Product Builder
+### Full-Stack Developer • AI & Data • Product Builder
 
-I build modern web applications with **Next.js**, **TypeScript**, **MongoDB**, and **AI**, creating products that combine scalable architecture with polished user experiences.
+I build modern web and mobile applications with **Next.js**, **React**, **React Native**, **TypeScript**, **MongoDB**, and **AI**, creating products that combine scalable architecture with polished user experiences.
 
 <br/>
 
@@ -26,11 +26,11 @@ I build modern web applications with **Next.js**, **TypeScript**, **MongoDB**, a
 
 ## 💫 About Me
 
-- 🔭 Building production-ready SaaS applications and AI-powered products.
-- 🌱 Scalable architecture with **Next.js**, **TypeScript**, **Node.js**, and **MongoDB**.
-- 🤖 Exploring AI workflows, prompt engineering, and developer tooling.
-- 🎨 Pairing software engineering with UI/UX design for polished digital experiences.
-- 💬 Ask me about **React**, **Next.js**, **Authentication**, **ERP Systems**, **Data Science**, and **AI**.
+- 🔭 Building production-ready SaaS applications, ERP systems, and mobile products.
+- 🌱 Building scalable applications with **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **React Native**.
+- 🤖 Working with **AI, prompt engineering, AI tools, and AI-assisted development**.
+- 🧠 Experienced in **Data Science, Machine Learning, and customer analytics**.
+- 💬 Ask me about **React**, **Next.js**, **Authentication**, **ERP Systems**, **Mobile Development**, **Data Science**, and **AI**.
 
 ---
 
@@ -38,9 +38,10 @@ I build modern web applications with **Next.js**, **TypeScript**, **MongoDB**, a
 
 | Project | Description | Stack | Repo | Link |
 |---|---|---|---|---|
+| 📱 **ZynMobile** | Offline-first mobile ERP for retail businesses — POS, inventory, purchasing, payroll, reporting, barcode scanning, backup/restore & thermal printing | `React Native` `Expo` `TypeScript` `SQLite` `Drizzle ORM` `Zustand` | 🔒 Private | 🔒 Private |
 | 💰 **Dime** | Personal finance platform — Better Auth, budgets & recurring transactions, shared spaces | `Next.js` `TypeScript` `MongoDB` `Better Auth` `Tailwind` `Resend` | [![stars](https://shieldcn.dev/github/stars/shammashassan/dime?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/dime) [![last commit](https://shieldcn.dev/github/last-commit/shammashassan/dime?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/dime) | [dime-tracker.vercel.app](https://dime-tracker.vercel.app) |
 | ⚡ **Volt** | Curated dev-resource hub — UI libraries, components, motion, AI tools, design inspiration | `Next.js` `React` `TypeScript` `MongoDB` `Better Auth` `Tailwind` | [![stars](https://shieldcn.dev/github/stars/shammashassan/volt?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/volt) [![last commit](https://shieldcn.dev/github/last-commit/shammashassan/volt?variant=secondary&theme=zinc&font=geist&size=xs)](https://github.com/shammashassan/volt) | [ui-volt.vercel.app](https://ui-volt.vercel.app) |
-| 🏭 **ERP System** | Billing, inventory, accounting, HR, analytics, reporting | `Next.js` `TypeScript` `Node.js` `MongoDB` `shadcn/ui` | 🔒 Private | 🔒 Private |
+| 🏭 **Zyn ERP** | 30+ module enterprise resource planning system — billing, inventory, accounting, HR, expenses & reporting | `Next.js` `TypeScript` `Node.js` `MongoDB` `shadcn/ui` | 🔒 Private | 🔒 Private |
 
 ---
 
@@ -62,6 +63,10 @@ I build modern web applications with **Next.js**, **TypeScript**, **MongoDB**, a
 
 <p align="center">
   <img height="55" src="https://skillicons.dev/icons?i=py,django&theme=dark" />
+</p>
+
+<p align="center">
+  Python • Data Science • Machine Learning • AI • Prompt Engineering • AI-Assisted Development
 </p>
 
 **DevOps & Tools**
